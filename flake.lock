@@ -55,24 +55,22 @@
       "original": {
         "owner": "fmoledina",
         "repo": "snapraid-btrfs-runner",
-        "rev": "afb83c67c61fdf3769aab95dba6385184066e119",
         "type": "github"
       }
     },
     "snapraid-btrfs-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1713853089,
-        "narHash": "sha256-+UCBGlGFqRKgFjCt1GdOSxaayTONfwisxdnZEwxOnSY=",
+        "lastModified": 1737763138,
+        "narHash": "sha256-zOFc1/H2hgcZMeGUnLvuWL+SFvE5kvekm0F/dvhakWI=",
         "owner": "D34DC3N73R",
         "repo": "snapraid-btrfs",
-        "rev": "ea9a1cfbfbe1cefcae9c038e1a4962d4bc2de843",
+        "rev": "a43e9a40773772b881b1450edfef28c9937f5f27",
         "type": "github"
       },
       "original": {
         "owner": "D34DC3N73R",
         "repo": "snapraid-btrfs",
-        "rev": "ea9a1cfbfbe1cefcae9c038e1a4962d4bc2de843",
         "type": "github"
       }
     },

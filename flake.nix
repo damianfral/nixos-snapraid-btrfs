@@ -15,12 +15,12 @@
     # lands in automorphism88/master we can switch back and drop the fork
     # (https://github.com/automorphism88/snapraid-btrfs/issues/23).
     snapraid-btrfs-src = {
-      url = "github:D34DC3N73R/snapraid-btrfs/ea9a1cfbfbe1cefcae9c038e1a4962d4bc2de843";
+      url = "github:D34DC3N73R/snapraid-btrfs";
       flake = false;
     };
     # Upstream snapraid-btrfs-runner (Python driver).
     snapraid-btrfs-runner-src = {
-      url = "github:fmoledina/snapraid-btrfs-runner/afb83c67c61fdf3769aab95dba6385184066e119";
+      url = "github:fmoledina/snapraid-btrfs-runner";
       flake = false;
     };
   };
